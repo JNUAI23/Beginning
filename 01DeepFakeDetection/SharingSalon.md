@@ -8,7 +8,12 @@ UniversalFakeDetect
 [[Paper]](https://arxiv.org/abs/2302.10174)  
 [[Code]](https://github.com/WisconsinAIVision/UniversalFakeDetect)  
 简要介绍：
-  
+
+zyc
+Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection
+[[Paper]](https://arxiv.org/pdf/2312.10461)  
+[[Code]](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
+简要介绍：提出邻近像素关系(NPR)，用以捕捉和表征源自上采样操作的通用结构伪影。从局部图像像素的角度探索上采样层的痕迹，提出了一种简单但有效的伪影表示，称为邻域像素关系（Neighboring Pixel Relationships，NPR），以实现广义的深度伪造检测。
 
 ---
 
